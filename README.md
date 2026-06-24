@@ -13,7 +13,8 @@ This project focuses on data cleaning, preprocessing, and exploratory data analy
 
 ## Tools & Technologies
 
-Python, Pandas, NumPy, YData Profiling, Jupyter Notebook
+Python, Pandas, NumPy, YData Profiling, Google Colab
+
 
 ## Project Outcome
 
